@@ -46,7 +46,7 @@ li::before {
   transition: 0.5s;
 }
 li:hover::before {
-  background: #7b5190;
+  background: #8f5ea8;
 }
 
 li::after {
